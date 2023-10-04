@@ -8,7 +8,7 @@ Projeto de 4 (quatro) Dashboards desenvolvidos durante o curso de Power BI da Si
 ## 1) Análise de Vendas
 ### PC
 Clique na imagem abaixo para visualizar e interagir com o relatório publicado.
-[![Dashboard 1](https://github.com/scgalves/PowerBISimplifica/blob/main/img/pratica/pratica-1-1.png)](https://app.powerbi.com/view?r=eyJrIjoiZDFiODE0MGQtN2VlOS00ZTQwLTgyNmMtMDU2MWM4OWY4ODJiIiwidCI6Ijc2MmY1YTRjLTE3NzgtNDNiZC1iOGU3LTJjYzIyNGY4NzBhZiJ9)
+[![Dashboard 1](https://github.com/scgalves/PowerBISimplifica/blob/main/img/pratica-1-1.png)](https://app.powerbi.com/view?r=eyJrIjoiZDFiODE0MGQtN2VlOS00ZTQwLTgyNmMtMDU2MWM4OWY4ODJiIiwidCI6Ijc2MmY1YTRjLTE3NzgtNDNiZC1iOGU3LTJjYzIyNGY4NzBhZiJ9)
 ### Mobile
 ![Dashboard 2](https://github.com/scgalves/PowerBISimplifica/blob/main/img/pratica/pratica-1-2.png)
 ## 2) Análise SAC
