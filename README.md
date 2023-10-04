@@ -21,7 +21,7 @@ Clique na imagem abaixo para visualizar e interagir com o relatório publicado.
 [![Dashboard 4](https://github.com/scgalves/PowerBISimplifica/blob/main/img/pratica-4.png)](...)
 
 # Tecnologia utilizada
-- Microsoft Power BI Desktop versão 2.121.762.0.
+- Microsoft Power BI Desktop versão 2.121.762.0 64-bit (setembro 2023).
 
 # Referências
 [Simplifica Treinamentos](https://simplificatreinamentos.com.br)
