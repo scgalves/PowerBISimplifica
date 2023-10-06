@@ -18,8 +18,8 @@ Clique na imagem abaixo para visualizar e interagir com o relatório publicado.
 ## 3) Análise de Produtos
 Clique na imagem abaixo para visualizar e interagir com o relatório publicado.
 [![Dashboard 3](https://github.com/scgalves/PowerBISimplifica/blob/main/img/pratica-3.png)](https://app.powerbi.com/view?r=eyJrIjoiMGVmOTJlNTgtZTJlNC00N2FmLTk0OWUtMWJjYzZkOGU5NTc5IiwidCI6Ijc2MmY1YTRjLTE3NzgtNDNiZC1iOGU3LTJjYzIyNGY4NzBhZiJ9)
-## 4) Análise de Perfil
-[![Dashboard 4](https://github.com/scgalves/PowerBISimplifica/blob/main/img/pratica-4.png)](...)
+## 4) Análise de Perfil de Alunos
+[![Dashboard 4](https://github.com/scgalves/PowerBISimplifica/blob/main/img/pratica-4.png)](https://app.powerbi.com/view?r=eyJrIjoiOGIwMGNlZDUtMjg0OS00ZTQwLWExMzMtZDJiMjgwZjJkY2Y0IiwidCI6Ijc2MmY1YTRjLTE3NzgtNDNiZC1iOGU3LTJjYzIyNGY4NzBhZiJ9)
 
 # Tecnologia utilizada
 - Microsoft Power BI Desktop versão 2.121.762.0 64-bit (setembro 2023).
